@@ -896,6 +896,11 @@ img {
     margin-top: 6px;
 }
 
+.footer__brand p[data-i18n="footer.madeBy"] {
+    font-size: 0.75rem;
+    opacity: 0.85;
+}
+
 .footer__nav {
     display: flex;
     gap: 24px;

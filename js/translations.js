@@ -95,7 +95,8 @@ const translations = {
         "join.optOther": "Другое",
         "join.submit": "Отправить",
         "join.formNote": "Нажимая кнопку, вы соглашаетесь на обработку персональных данных.",
-        "footer.copy": "© 2026 Общенациональная ассоциация Автомототуризма и караванинга"
+        "footer.copy": "© 2026 Общенациональная ассоциация Автомототуризма и караванинга",
+        "footer.madeBy": "Сайт разработан студентами Кафедры туризма и гостиничного бизнеса Финансового университета при Правительстве Российской Федерации"
     },
     en: {
         "meta.title": "Auto Moto Tourism & Caravaning",
@@ -193,7 +194,8 @@ const translations = {
         "join.optOther": "Other",
         "join.submit": "Send",
         "join.formNote": "By clicking the button, you agree to the processing of personal data.",
-        "footer.copy": "© 2026 National Association of Auto-Moto Tourism and Caravaning"
+        "footer.copy": "© 2026 National Association of Auto-Moto Tourism and Caravaning",
+        "footer.madeBy": "Site developed by students of the Department of Tourism and Hospitality at the Financial University under the Government of the Russian Federation"
     },
     zh: {
         "meta.title": "汽车摩托旅游与房车旅行",
@@ -291,6 +293,7 @@ const translations = {
         "join.optOther": "其他",
         "join.submit": "发送",
         "join.formNote": "点击按钮即表示您同意处理个人数据。",
-        "footer.copy": "© 2026 全国汽车摩托旅游与房车旅行协会"
+        "footer.copy": "© 2026 全国汽车摩托旅游与房车旅行协会",
+        "footer.madeBy": "本网站由俄罗斯联邦政府财政大学旅游与酒店管理系学生开发"
     }
 };
